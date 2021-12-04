@@ -1,4 +1,4 @@
-src-git packages https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/packages/
+src-git packages https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/packages
 src-git luci https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/luci
 src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
