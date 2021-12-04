@@ -1,7 +1,7 @@
 src-git packages https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/packages
 src-git luci https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/luci
-src-git routing https://git.openwrt.org/feed/routing.git
-src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git routing https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/routing
+src-git telephony https://downloads.openwrt.org/releases/21.02.1/packages/aarch64_cortex-a53/telephony
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
